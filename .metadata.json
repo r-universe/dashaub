@@ -1,5 +1,9 @@
 [
   {
+    "package": "DidacticBoost",
+    "oncran": true
+  },
+  {
     "package": "supervisedPRIM",
     "oncran": true
   }

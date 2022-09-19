@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "DidacticBoost"]
+	path = DidacticBoost
+	url = https://github.com/dashaub/didacticboost
+	shallow = true
+	registered = true
 [submodule "supervisedPRIM"]
 	path = supervisedPRIM
 	url = https://github.com/dashaub/supervisedprim
